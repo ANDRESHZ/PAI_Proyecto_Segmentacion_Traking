@@ -1,0 +1,210 @@
+Posicion de Cruce Frame=1
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=2
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=3
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=4
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=5
+   39.3333   41.3333
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=6
+   38.5000   41.0000
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=7
+   39.5000   40.5000
+   38.5000   40.0000
+         0         0
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=8
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=9
+         0         0
+   39.0000   39.0000
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=10
+         0         0
+   39.0000   39.0000
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=11
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=12
+         0         0
+   38.5000   38.5000
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=13
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=14
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=15
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
+Posicion de Cruce Frame=16
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=17
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=18
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=19
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=20
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=21
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=22
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=23
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=24
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=25
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=26
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=27
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=28
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=29
+         0         0
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+Posicion de Cruce Frame=30
+         0         0
+         0         0
+   39.5000   40.5000
+         0         0
+         0         0
+         0         0
